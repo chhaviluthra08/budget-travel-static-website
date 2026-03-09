@@ -21,3 +21,7 @@ Not a SaaS. Not a startup. Just useful things, made well.
 ## License
 
 MIT — use freely, attribution appreciated but not required.
+
+### Author
+
+Chhavi-Luthra
