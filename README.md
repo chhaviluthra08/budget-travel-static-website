@@ -24,4 +24,4 @@ MIT — use freely, attribution appreciated but not required.
 
 ### Author
 
-Chhavi-Luthra
+Chhavi Luthra
