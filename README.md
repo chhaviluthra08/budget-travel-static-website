@@ -1,4 +1,4 @@
-# Static Web Page - Travel Cheat Sheet (Sample)
+# Static Web Page - Travel Cheat Sheet (Sample Webpage)
 
 ## Tech Stack
 
